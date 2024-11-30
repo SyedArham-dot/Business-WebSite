@@ -1,0 +1,72 @@
+.put h1{
+    color: rgb(212, 94, 52);
+    width: 20px;
+    font-size: 25px;
+    transform: rotate(-90deg);
+    margin-top: -5px;
+    margin-left: 2px;    
+}
+.put h2{
+    color: rgb(212, 94, 52);
+    margin-top: -20px;
+    margin-left: 39px;
+    font-size: 14px;
+}
+.put h3{
+    font-size: 39px;
+}
+.put p{
+    margin-top: 10px;
+}
+.crl1{
+    width: 40px;
+    height: 40px;
+    margin-left: 3%;
+    margin-top: 18px;
+    border-radius: 50%;
+    background-color: rgb(212, 94, 52);
+}
+.crl1 .fa-volume-control-phone{
+    color: white;
+    padding: 10px 11px; 
+}
+.crl2{
+    width: 40px;
+    height: 40px;
+    margin-left: 3%;
+    margin-top: 18px;
+    border-radius: 50%;
+    background-color: rgb(212, 94, 52);
+}
+.crl2 .fa-envelope-open-o{
+    color: white;
+    padding: 10px 6px;
+}
+.crl3{
+    width: 40px;
+    height: 40px;
+    margin-left: 3%;
+    margin-top: 18px;
+    border-radius: 50%;
+    background-color: rgb(212, 94, 52);
+}
+.crl3 .fa-map-marker{
+    color: white;
+    padding: 10px 15px;
+}
+.bet{
+    width: 60%;
+    height: 47%;
+    position: absolute;
+    margin-top: -40%;
+    margin-left: 15%;
+}
+.bet h4{
+    font-size: 16px;
+    margin: 10px 10px;
+}
+.bet h5{
+    font-size: 12px;
+    margin-left: 10px;
+    margin-top: -2px;
+}

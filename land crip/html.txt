@@ -1,0 +1,24 @@
+ <h1>|</h1>
+                        <h2>CONTACT US</h2>
+                        <h3>Get In Touch <span> With Us!</span></h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        Praesentium minus est quasi rem aperiam consectetur fugiat facilis?
+                        Accusamus non ipsum in, eius nostrum ab, sed, perspiciatis assumenda
+                        adipisci explicabo sit!</p>
+                        <div class="crl1">
+                            <i class="fa fa-volume-control-phone"></i>
+                        </div>
+                        <div class="crl2">
+                            <i class="fa fa-envelope-open-o"></i>
+                        </div>
+                        <div class="crl3">
+                            <i class="fa fa-map-marker"></i>
+                        </div>
+                        <div class="bet">
+                            <h4>Phone No</h4>
+                            <h5>+255743910856</h5>
+                            <h4>Email</h4>
+                            <h5>Info@elidamentors.co.tz</h5>
+                            <h4>Address</h4>
+                            <h5>Mbezi Mwisho, Kwa Yusuf, Dar Es Salaam</h5>
+                       </div> 
